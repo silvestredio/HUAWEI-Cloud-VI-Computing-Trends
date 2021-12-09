@@ -6,4 +6,6 @@
 
 ![HUAWEI Cloud VI Computing Trends 02](https://user-images.githubusercontent.com/93165498/145441270-6508110f-a794-401e-8b12-35434b668d4f.jpg)
 
-![HUAWEI Cloud VI Computing Trends 03](https://user-images.githubusercontent.com/93165498/145441298-6875152a-17d8-408f-a66c-e79a13e8f9b9.jpg)
+![HUAWEI Cloud VI Computing Trends 03](https://user-images.githubusercontent.com/93165498/145441298-6875152a-17d8-408f-a66c-e79a13e8f9b9.jpg) 
+
+![HUAWEI Cloud VI Computing Trends 04](https://user-images.githubusercontent.com/93165498/145441316-2b6583a1-4f44-4bf9-bf76-ce9349246bf7.jpg)
